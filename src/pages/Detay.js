@@ -3,7 +3,7 @@ import React from "react";
 import {Share, Linking, Platform, View, Text, Button, TouchableOpacity, Image, TextInput, StyleSheet } from "react-native";
 import { ScrollView } from "react-native-gesture-handler";
 
-//import Share from 'react-native-share';
+////import Share from 'react-native-share';
 
 
 class Detay extends React.Component {
